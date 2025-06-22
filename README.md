@@ -1,6 +1,9 @@
 ## Global-EV-Sales: 2010-2024
 
 ### Historically, EVs have come and gone. Are they here to stay ?
+
+![image](archive(1)/archive/EV.jpg)
+
 ## About Dataset
 ### Introduction
 Electric vehicles, marked by early innovations, periods of decline, and a remarkable resurgence in recent decades. From the pioneering efforts of the 19th century to the transformative breakthroughs of the 21st century, EVs have continually evolved, driven by technological advancements, environmental considerations, and shifting market dynamics.
