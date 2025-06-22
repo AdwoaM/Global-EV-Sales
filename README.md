@@ -1,3 +1,5 @@
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1daw13c7J79P4EvJkzEXzhO8ASQhn3sO-#scrollTo=oBMPMrcz5Lud)
+
 ## Global-EV-Sales: 2010-2024
 
 ### Historically, EVs have come and gone. Are they here to stay ?
