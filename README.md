@@ -1,4 +1,4 @@
-# Global-EV-Sales: 2010-2024
+## Global-EV-Sales: 2010-2024
 
 ### Historically, EVs have come and gone. Are they here to stay ?
 ## About Dataset
