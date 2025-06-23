@@ -1,10 +1,10 @@
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1daw13c7J79P4EvJkzEXzhO8ASQhn3sO-#scrollTo=oBMPMrcz5Lud)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1djrn55lES_f1xh86H5mgak-QO6M5KMhi)
 
 ## Global-EV-Sales: 2010-2024
 
 ### Historically, EVs have come and gone. Are they here to stay ?
 
-![image](archive(1)/archive/EV.jpg)
+![image](EV.jpg)
 
 ## About Dataset
 ### Introduction
@@ -157,6 +157,7 @@ Each type of powertrain has its strengths and fits different use cases and user 
 
 ### Visualisation: IEA Global EV Data 2024.csv
 
+![](dataset-cover.png)
 
 BEVs are battery electric vehicles. PHEVs are plug-in hybrid electric vehicles. FCEVs are fuel cell electric vehicles. EVs refers to all electric vehicles (BEVs + PHEVs).
 
